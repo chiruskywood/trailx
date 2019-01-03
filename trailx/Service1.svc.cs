@@ -17,6 +17,9 @@ namespace trailx
             return string.Format("You entered: {0}", value);
         }
 
+
+        // let me try add a comment.. have a peaceful life.. 
+
         public CompositeType GetDataUsingDataContract(CompositeType composite)
         {
             if (composite == null)
