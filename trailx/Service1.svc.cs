@@ -19,6 +19,7 @@ namespace trailx
 
 
         // let me try add a comment.. have a peaceful life.. 
+        // let me add another comment.. so far so good
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)
         {
